@@ -1,6 +1,8 @@
 # 1000 Days Progress Tracker
 
-<img src="https://github.com/fdhliakbar/1000-days-progress-tracker/assets/104522615/2ef3df34-65c5-4b1f-a316-f17875469cd4" style="display: block; margin-left: auto; margin-right: auto;" alt="Thinking Hmm Sticker">
+<div style="text-align:center;">
+<img src="https://github.com/fdhliakbar/1000-days-progress-tracker/assets/104522615/2ef3df34-65c5-4b1f-a316-f17875469cd4" alt="Thinking Hmm Sticker">
+</div>
 
 
 This is **my progress for 1000 days**, I want to motivate myself to be more active in learning programming.
@@ -24,4 +26,6 @@ When this progress has been successful. I want to thank myself for working hard 
 ------------
 
 ### El Psy Congroo :)
-<img src="https://github.com/fdhliakbar/1000-days-progress-tracker/assets/104522615/8bf23dfe-1f28-4135-8fe7-a72f01566a6f" style="display: block; margin-left: auto; margin-right: auto;" alt="Shizuku studying">
+<div style="text-align:center;">
+<img src="https://github.com/fdhliakbar/1000-days-progress-tracker/assets/104522615/8bf23dfe-1f28-4135-8fe7-a72f01566a6f" alt="Shizuku studying">
+</div>
