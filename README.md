@@ -1,4 +1,4 @@
-<h1 style="text-align: center;">1000 Days Progress Tracker</h1>
+<h1 align="center">1000 Days Progress Tracker</h1>
 
 <!-- Banner GIF -->
 <p align="center">
@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  I believe that <a href="https://citizenside.com/technology/what-is-computer-technology/">computer technology</a> has brought tremendous changes to our lives. Seeing the rapid development in the world of <a href="https://www.geeksforgeeks.org/software-engineering-introduction-to-software-engineering/">software engineering</a> motivates me to keep learning and innovating. I enjoy exploring new technologies and using them to build solutions that benefit many people.
+  I believe that <a href="https://citizenside.com/technology/what-is-computer-technology/">computer technology</a> has brought tremendous changes to our lives. Seeing the rapid development in the world of <a href="https://www.geeksforgeeks.org/software-engineering-introduction-to-software-engineering/">software engineering</a> motivates me to keep learning and innovating. I enjoy <a>exploring new technologies</a> and using them to <a>build solutions that benefit many people.</a>
 </p>
 
 <p align="center">
@@ -17,12 +17,16 @@
   <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/Ruby-CC342D?logo=ruby&logoColor=white" />
   <img src="https://img.shields.io/badge/Solidity-363636?logo=solidity&logoColor=white" />
+  <img src="https://img.shields.io/badge/Lua-800080?logo=lua&logoColor=white" />
   <img src="https://img.shields.io/badge/Swift-FA7343?logo=swift&logoColor=white" />
   <img src="https://img.shields.io/badge/YAML-CB171E?logo=yaml&logoColor=white" />
   <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white" />
   <img src="https://img.shields.io/badge/Objective--C-438EFF?logo=objective-c&logoColor=white" />
   <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Perl-bdb76b?logo=perl&logoColor=white" />
+  <img src="https://img.shields.io/badge/Shell-adff2f ?logo=shell&logoColor=white" />
+  <img src="https://img.shields.io/badge/R-007396?logo=r&logoColor=white" />
 </p>
 
 ---
@@ -61,33 +65,33 @@
 ## ✨ Features
 
 <!-- Redesigned feature table -->
-<table>
+<table style="width: 100%">
   <tr>
     <th align="center">Feature</th>
     <th align="center">Description</th>
-    <th align="center">Preview</th>
   </tr>
   <tr>
     <td align="center"><b>Daily Progress</b></td>
     <td>Record and monitor your daily achievements easily.</td>
-    <td align="center"><img src="https://media.giphy.com/media/26ufnwz3wDUli7GU0/giphy.gif" width="80"/></td>
+    
   </tr>
   <tr>
     <td align="center"><b>Data Visualization</b></td>
     <td>See your growth with beautiful charts and statistics.</td>
-    <td align="center"><img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="80"/></td>
+    
   </tr>
   <tr>
     <td align="center"><b>Reminders & Motivation</b></td>
     <td>Get daily notifications and motivational quotes.</td>
-    <td align="center"><img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="80"/></td>
+    
   </tr>
   <tr>
     <td align="center"><b>Multi-platform</b></td>
     <td>Accessible from various devices and platforms.</td>
-    <td align="center"><img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="80"/></td>
+    
   </tr>
 </table>
+
 
 ---
 
