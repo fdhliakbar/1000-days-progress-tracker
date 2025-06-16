@@ -1,31 +1,163 @@
-# 1000 Days Progress Tracker
+<h1 style="text-align: center;">1000 Days Progress Tracker</h1>
 
-<div style="text-align:center;">
-<img src="https://github.com/fdhliakbar/1000-days-progress-tracker/assets/104522615/2ef3df34-65c5-4b1f-a316-f17875469cd4" alt="Thinking Hmm Sticker">
-</div>
+<!-- Banner GIF -->
+<p align="center">
+  <img src="./src/images/yui1.jpeg" alt="Coding Banner" width="360"/>
+</p>
 
+<p align="center">
+  I believe that <a href="https://citizenside.com/technology/what-is-computer-technology/">computer technology</a> has brought tremendous changes to our lives. Seeing the rapid development in the world of <a href="https://www.geeksforgeeks.org/software-engineering-introduction-to-software-engineering/">software engineering</a> motivates me to keep learning and innovating. I enjoy exploring new technologies and using them to build solutions that benefit many people.
+</p>
 
-This is **my progress for 1000 days**, I want to motivate myself to be more active in learning programming.
+<p align="center">
+  <img src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ruby-CC342D?logo=ruby&logoColor=white" />
+  <img src="https://img.shields.io/badge/Solidity-363636?logo=solidity&logoColor=white" />
+  <img src="https://img.shields.io/badge/Swift-FA7343?logo=swift&logoColor=white" />
+  <img src="https://img.shields.io/badge/YAML-CB171E?logo=yaml&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/Objective--C-438EFF?logo=objective-c&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" />
+</p>
 
-In addition to this, this is a benchmark for the limits of my abilities and achievements for 1000 days. Sounds amazing haha, but I want at least there are new things that I understand later and what problems will arise and their solutions.
+---
 
-When this progress has been successful. I want to thank myself for working hard to make at least 1 progress in 1 day.
+## 🚀 About This Project
 
-## My Project Dream
-- [ e-commerce application](https://www.techtarget.com/searchcio/definition/e-commerce " e-commerce application")
-- [task management application](https://www.planview.com/resources/articles/lkdc-task-management-tool/#:~:text=View%20the%20eBook-,A%20task%20management%20tool%20is%20used%20by%20an%20individual%2C%20team,or%20online%20project%20management%20applications. "task management application")
-- [social media application](https://en.wikipedia.org/wiki/Social_media "social media application")
-- [chatbots](https://www.ibm.com/topics/chatbots "chatbots")
-- [Iot application](https://www.oracle.com/internet-of-things/what-is-iot/#:~:text=IoT%20applications%20use%20machine%20learning,between%20failures%2C%20and%20other%20information. "Iot application")
-- [online learning platforms](https://www.verywellfamily.com/best-online-learning-platforms-5073725 "online learning platforms")
-- [login security system](https://www.microsoft.com/en-gb/security/business/security-101/what-is-login-security#:~:text=Login%20security%20prevents%20unauthorized%20access,people%20and%20businesses%20from%20cyberthreats. "login security system")
-- [intrusion detection application](https://www.techtarget.com/searchsecurity/definition/intrusion-detection-system "intrusion detection application")
-- [portfolio](https://www.investopedia.com/terms/p/portfolio.asp "portfolio")
-- [and others](https:://github.com/fdhliakbar "and others")
+<table>
+  <tr>
+    <td width="60%" valign="top" style="padding: 8px;">
+      <b>1000 Days Progress Tracker</b> is an application to record, monitor, and visualize your skill or habit development over 1000 days. Perfect for developers, students, or anyone who wants to consistently grow. Track your daily progress, get motivated, and visualize your journey!
+    </td>
+    <td align="center" width="40%">
+      <img src="./src/images/when.webp" width="120" alt="Growth Icon"/>
+    </td>
+  </tr>
+  <tr>
+    <td width="60%" valign="top">
+      <b>1000 Days Progress Tracker</b> is an application to record, monitor, and visualize your skill or habit development over 1000 days. Perfect for developers, students, or anyone who wants to consistently grow. Track your daily progress, get motivated, and visualize your journey!
+    </td>
+    <td align="center" width="40%">
+      <img src="https://cdn-icons-png.flaticon.com/512/2721/2721297.png" width="120" alt="Growth Icon"/>
+    </td>
+  </tr>
+  <tr>
+    <td width="60%" valign="top">
+      <b>1000 Days Progress Tracker</b> is an application to record, monitor, and visualize your skill or habit development over 1000 days. Perfect for developers, students, or anyone who wants to consistently grow. Track your daily progress, get motivated, and visualize your journey!
+    </td>
+    <td align="center" width="40%">
+      <img src="https://cdn-icons-png.flaticon.com/512/2721/2721297.png" width="120" alt="Growth Icon"/>
+    </td>
+  </tr>
+</table>
 
-------------
+---
 
-### El Psy Congroo :)
-<div style="text-align:center;">
-<img src="https://github.com/fdhliakbar/1000-days-progress-tracker/assets/104522615/8bf23dfe-1f28-4135-8fe7-a72f01566a6f" alt="Shizuku studying">
-</div>
+## ✨ Features
+
+<!-- Redesigned feature table -->
+<table>
+  <tr>
+    <th align="center">Feature</th>
+    <th align="center">Description</th>
+    <th align="center">Preview</th>
+  </tr>
+  <tr>
+    <td align="center"><b>Daily Progress</b></td>
+    <td>Record and monitor your daily achievements easily.</td>
+    <td align="center"><img src="https://media.giphy.com/media/26ufnwz3wDUli7GU0/giphy.gif" width="80"/></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Data Visualization</b></td>
+    <td>See your growth with beautiful charts and statistics.</td>
+    <td align="center"><img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="80"/></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Reminders & Motivation</b></td>
+    <td>Get daily notifications and motivational quotes.</td>
+    <td align="center"><img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="80"/></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Multi-platform</b></td>
+    <td>Accessible from various devices and platforms.</td>
+    <td align="center"><img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="80"/></td>
+  </tr>
+</table>
+
+---
+
+## 🛠️ Built With
+
+- **[React](https://reactjs.org/)** - A JavaScript library for building user interfaces.
+- **[Node.js](https://nodejs.org/)** - JavaScript runtime built on Chrome's V8 JavaScript engine.
+- **[Express](https://expressjs.com/)** - Fast, unopinionated, minimalist web framework for Node.js.
+- **[MongoDB](https://www.mongodb.com/)** - NoSQL database for modern applications.
+- **[Chart.js](https://www.chartjs.org/)** - Simple yet flexible JavaScript charting for designers & developers.
+
+---
+
+## 🧑‍💻 Getting Started
+
+1. **Clone repo**
+   ```bash
+   git clone https://github.com/username/1000-days-progress-tracker.git
+   ```
+2. **Install dependencies**
+   ```bash
+   # Contoh untuk Node.js
+   npm install
+   ```
+3. **Run the app**
+   ```bash
+   npm start
+   ```
+
+---
+
+## 🎯 My Project Goal
+
+> **Vision:**  
+> To create an open-source platform that empowers people to build positive habits and achieve their goals through consistent progress tracking and community support.
+>
+> **Mission:**  
+> - Develop a user-friendly, powerful, and free progress tracker for everyone.
+> - Integrate with popular productivity tools (Google Calendar, Notion, etc.).
+> - Foster a supportive community where users can share and celebrate their progress.
+> - Showcase my skills in software engineering, UI/UX, and open-source collaboration through this project.
+>
+> **Let's grow together and make every day count!**
+
+---
+
+## 🤝 Contributing
+
+Contributions are welcome!  
+Feel free to open issues or pull requests for new features or bug fixes.
+
+- Please read the [My Project Goal](#-my-project-goal) section to understand the vision and mission of this project.
+- Make sure to follow the code of conduct and contribution guidelines.
+
+---
+
+## 📬 Contact
+
+- Email: [your.email@example.com](mailto:your.email@example.com)
+- LinkedIn: [Your Name](https://linkedin.com/in/yourprofile)
+
+---
+
+## 📄 License
+
+This project is licensed under the MIT License.  
+See the [LICENSE](LICENSE) file for details.
+
+<!-- Example: How to add a license to your project -->
+> **How to add a license:**  
+> 1. Create a file named `LICENSE` in your project root.  
+> 2. Copy the content of your preferred license (e.g., MIT, Apache 2.0, GPL) into the file.  
+> 3. Update the license badge at the top of this README if needed.
