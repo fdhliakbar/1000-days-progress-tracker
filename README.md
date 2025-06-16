@@ -26,6 +26,7 @@
   <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/Perl-bdb76b?logo=perl&logoColor=white" />
   <img src="https://img.shields.io/badge/Shell-adff2f ?logo=shell&logoColor=white" />
+  <img src="https://img.shields.io/badge/R-007396?logo=r&logoColor=white" />
 </p>
 
 ---
