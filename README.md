@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  I believe that <a href="https://citizenside.com/technology/what-is-computer-technology/">computer technology</a> has brought tremendous changes to our lives. Seeing the rapid development in the world of <a href="https://www.geeksforgeeks.org/software-engineering-introduction-to-software-engineering/">software engineering</a> motivates me to keep learning and innovating. I enjoy <a>exploring new technologies</a> and using them to <a>build solutions that benefit many people.</a>
+  I believe that <a href="https://citizenside.com/technology/what-is-computer-technology/">computer technology</a> has brought tremendous changes to our lives. Seeing the rapid development in the world of <a href="https://www.geeksforgeeks.org/software-engineering-introduction-to-software-engineering/">software engineering</a> motivates me to keep learning and innovating. I enjoy <a>exploring new technologies</a> and using them to <a src="https://citizenside.com/technology">build solutions that benefit many people.</a>
 </p>
 
 <p align="center">
@@ -27,6 +27,8 @@
   <img src="https://img.shields.io/badge/Perl-bdb76b?logo=perl&logoColor=white" />
   <img src="https://img.shields.io/badge/Shell-adff2f ?logo=shell&logoColor=white" />
   <img src="https://img.shields.io/badge/R-007396?logo=r&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kotlin-8A6EE8?logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS-5826FD?logo=css&logoColor=white" />
 </p>
 
 ---
@@ -39,24 +41,10 @@
       <b>1000 Days Progress Tracker</b> is an application to record, monitor, and visualize your skill or habit development over 1000 days. Perfect for developers, students, or anyone who wants to consistently grow. Track your daily progress, get motivated, and visualize your journey!
     </td>
     <td align="center" width="40%">
-      <img src="./src/images/when.webp" width="120" alt="Growth Icon"/>
+      <img src="/src/icons/capybara-icons.png" width="200" alt="Growth Icon"/>
     </td>
   </tr>
-  <tr>
-    <td width="60%" valign="top">
-      <b>1000 Days Progress Tracker</b> is an application to record, monitor, and visualize your skill or habit development over 1000 days. Perfect for developers, students, or anyone who wants to consistently grow. Track your daily progress, get motivated, and visualize your journey!
-    </td>
-    <td align="center" width="40%">
-      <img src="https://cdn-icons-png.flaticon.com/512/2721/2721297.png" width="120" alt="Growth Icon"/>
-    </td>
-  </tr>
-  <tr>
-    <td width="60%" valign="top">
-      <b>1000 Days Progress Tracker</b> is an application to record, monitor, and visualize your skill or habit development over 1000 days. Perfect for developers, students, or anyone who wants to consistently grow. Track your daily progress, get motivated, and visualize your journey!
-    </td>
-    <td align="center" width="40%">
-      <img src="https://cdn-icons-png.flaticon.com/512/2721/2721297.png" width="120" alt="Growth Icon"/>
-    </td>
+  
   </tr>
 </table>
 
@@ -150,18 +138,11 @@ Feel free to open issues or pull requests for new features or bug fixes.
 
 ## 📬 Contact
 
-- Email: [your.email@example.com](mailto:your.email@example.com)
-- LinkedIn: [Your Name](https://linkedin.com/in/yourprofile)
+- Email: [fadhliakbar125@gmail.com](mailto:fadhliakbar125@gmail.com)
+- LinkedIn: [Muhamad Fadhli Akbar](https://linkedin.com/in/yourprofile)
 
 ---
 
-## 📄 License
-
-This project is licensed under the MIT License.  
-See the [LICENSE](LICENSE) file for details.
-
-<!-- Example: How to add a license to your project -->
-> **How to add a license:**  
-> 1. Create a file named `LICENSE` in your project root.  
-> 2. Copy the content of your preferred license (e.g., MIT, Apache 2.0, GPL) into the file.  
-> 3. Update the license badge at the top of this README if needed.
+<div align="center">
+<img src="/src/images/why.jpeg"/>
+</div>
