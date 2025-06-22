@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  I believe that <a href="https://citizenside.com/technology/what-is-computer-technology/">computer technology</a> has brought tremendous changes to our lives. Seeing the rapid development in the world of <a href="https://www.geeksforgeeks.org/software-engineering-introduction-to-software-engineering/">software engineering</a> motivates me to keep learning and innovating. I enjoy <a>exploring new technologies</a> and using them to <a src="https://citizenside.com/technology">build solutions that benefit many people.</a>
+  I believe that <a href="https://citizenside.com/technology/what-is-computer-technology/">computer technology</a> has brought tremendous changes to our lives. Seeing the rapid development in the world of <a href="https://www.geeksforgeeks.org/software-engineering-introduction-to-software-engineering/">software engineering</a> motivates me to keep learning and innovating. I enjoy <a>exploring new technologies</a> and using them to <a href="https://citizenside.com/technology">build solutions that benefit many people.</a>
 </p>
 
 <p align="center">
